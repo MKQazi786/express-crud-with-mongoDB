@@ -1,0 +1,9 @@
+.post-card {
+    box-shadow: 4px 4px 4px 4px black;
+    border-radius:0.5rem;
+    padding:0.5rem;
+}
+
+.post-card > h3 {
+    margin: 0;
+}
